@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Chapter1](chapter1/README.md)
-    * [Section1.1](chapter1/section1.1.md)
-    * [Section1.2](chapter1/section1.2.md)
-* [Chapter2](chapter2/README.md)
+* [第一章：面向对象](第一章：面向对象/README.md)
+    * [Section1.1](第一章：面向对象/1.1构造函数.md)
+    * [Section1.2](第一章：面向对象/1.2析构函数.md)
+* [第二章：面向过程](第二章：面向过程/README.md)
 
